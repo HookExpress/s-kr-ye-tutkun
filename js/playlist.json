@@ -1,3 +1,4 @@
+
 {
 	"embed_link": "",
 	"permalink": "",
@@ -5,103 +6,143 @@
 	"thumbnail": "images/albums/background.jpg",
 	"tracks": [
 		{
-			"artist": "AndreySkarlat", 
+			"artist": "Şükrüye Tutkun",
 			"artworkId": 0,
 			"artworkUrl": "#0",
 			"audioId": 1,
-			"audioUrl": "https://s3.envato.com/files/229455919/preview.mp3",
+			"audioUrl": "./images/musics/Sen İstedin - Şükriye Tutkun & Ali Osman Erbaşı (1).mp3",
 			"format": "mp3",
-			"length": "5:55",
-			"title": "Upbeat & Inspiring",
+			"length": "4:50",
+			"title": "Sen İstedin",
 			"order": 0,
-			"mp3": "https://s3.envato.com/files/229455919/preview.mp3",
-			"meta": { 
-				"artist": "AndreySkarlat",
-				"length_formatted": "5:55" 
+			"mp3": "./images/musics/Sen İstedin - Şükriye Tutkun & Ali Osman Erbaşı (1).mp3",
+			"meta": {
+				"artist": "Şükrüye Tutkun",
+				"length_formatted": "4:50"
 			},
-			"src": "https://s3.envato.com/files/229455919/preview.mp3",
-			"thumb": { 
-				"src": "images/albums/01.jpg" 
+			"src": "https://example.com/songs/sen-istedin.mp3",
+			"thumb": {
+				"src": "images/albums/01.jpg"
 			}
 		},
 		{
-			"artist": "AndreySkarlat", 
+			"artist": "Şükrüye Tutkun",
 			"artworkId": 0,
 			"artworkUrl": "#0",
 			"audioId": 2,
-			"audioUrl": "https://0.s3.envato.com/files/216844247/preview.mp3",
+			"audioUrl": "https://example.com/songs/beni-hatırla.mp3",
 			"format": "mp3",
-			"length": "7:48",
-			"title": "Inspiring Uplifting Corporate",
+			"length": "5:15",
+			"title": "Beni Hatırla",
 			"order": 0,
-			"mp3": "https://0.s3.envato.com/files/216844247/preview.mp3",
-			"meta": { 
-				"artist": "AndreySkarlat",
-				"length_formatted": "7:48" 
+			"mp3": "https://example.com/songs/beni-hatırla.mp3",
+			"meta": {
+				"artist": "Şükrüye Tutkun",
+				"length_formatted": "5:15"
 			},
-			"src": "https://0.s3.envato.com/files/216844247/preview.mp3",
-			"thumb": { 
-				"src": "images/albums/02.jpg" 
+			"src": "https://example.com/songs/beni-hatırla.mp3",
+			"thumb": {
+				"src": "images/albums/02.jpg"
 			}
 		},
 		{
-			"artist": "AndreySkarlat", 
+			"artist": "Şükrüye Tutkun",
 			"artworkId": 0,
 			"artworkUrl": "#0",
 			"audioId": 3,
-			"audioUrl": "https://0.s3.envato.com/files/196824856/preview.mp3",
+			"audioUrl": "https://example.com/songs/duygular.mp3",
 			"format": "mp3",
-			"length": "11:36",
-			"title": "Inspiration Kit",
+			"length": "6:00",
+			"title": "Duygular",
 			"order": 0,
-			"mp3": "https://0.s3.envato.com/files/196824856/preview.mp3",
-			"meta": { 
-				"artist": "AndreySkarlat",
-				"length_formatted": "11:36" 
+			"mp3": "https://example.com/songs/duygular.mp3",
+			"meta": {
+				"artist": "Şükrüye Tutkun",
+				"length_formatted": "6:00"
 			},
-			"src": "https://0.s3.envato.com/files/196824856/preview.mp3",
-			"thumb": { 
-				"src": "images/albums/03.jpg" 
+			"src": "https://example.com/songs/duygular.mp3",
+			"thumb": {
+				"src": "images/albums/03.jpg"
 			}
 		},
 		{
-			"artist": "AndreySkarlat", 
+			"artist": "Şükrüye Tutkun",
 			"artworkId": 0,
 			"artworkUrl": "#0",
 			"audioId": 4,
-			"audioUrl": "https://0.s3.envato.com/files/179391137/preview.mp3",
+			"audioUrl": "https://example.com/songs/gideceksen.mp3",
 			"format": "mp3",
-			"length": "4:26",
-			"title": "Happy Upbeat Ukulele",
+			"length": "4:35",
+			"title": "Gideceksen",
 			"order": 0,
-			"mp3": "https://0.s3.envato.com/files/179391137/preview.mp3",
-			"meta": { 
-				"artist": "AndreySkarlat",
-				"length_formatted": "4:26" 
+			"mp3": "https://example.com/songs/gideceksen.mp3",
+			"meta": {
+				"artist": "Şükrüye Tutkun",
+				"length_formatted": "4:35"
 			},
-			"src": "https://0.s3.envato.com/files/179391137/preview.mp3",
-			"thumb": { 
-				"src": "images/albums/04.jpg" 
+			"src": "https://example.com/songs/gideceksen.mp3",
+			"thumb": {
+				"src": "images/albums/04.jpg"
 			}
 		},
 		{
-			"artist": "AndreySkarlat", 
+			"artist": "Şükrüye Tutkun",
 			"artworkId": 0,
 			"artworkUrl": "#0",
 			"audioId": 5,
-			"audioUrl": "https://0.s3.envato.com/files/175505487/preview.mp3",
+			"audioUrl": "https://example.com/songs/bir-sarki.mp3",
 			"format": "mp3",
-			"length": "3:30",
-			"title": "Motivational and Inspiring",
+			"length": "5:20",
+			"title": "Bir Şarkı",
 			"order": 0,
-			"mp3": "https://0.s3.envato.com/files/175505487/preview.mp3",
-			"meta": { 
-				"artist": "AndreySkarlat",
-				"length_formatted": "3:30" 
+			"mp3": "https://example.com/songs/bir-sarki.mp3",
+			"meta": {
+				"artist": "Şükrüye Tutkun",
+				"length_formatted": "5:20"
 			},
-			"src": "https://0.s3.envato.com/files/175505487/preview.mp3",
-			"thumb": { 
-				"src": "images/albums/05.jpg" 
+			"src": "https://example.com/songs/bir-sarki.mp3",
+			"thumb": {
+				"src": "images/albums/05.jpg"
+			}
+		},
+		{
+			"artist": "Şükrüye Tutkun",
+			"artworkId": 0,
+			"artworkUrl": "#0",
+			"audioId": 6,
+			"audioUrl": "https://example.com/songs/yeniden.mp3",
+			"format": "mp3",
+			"length": "6:45",
+			"title": "Yeniden",
+			"order": 0,
+			"mp3": "https://example.com/songs/yeniden.mp3",
+			"meta": {
+				"artist": "Şükrüye Tutkun",
+				"length_formatted": "6:45"
+			},
+			"src": "https://example.com/songs/yeniden.mp3",
+			"thumb": {
+				"src": "images/albums/06.jpg"
+			}
+		},
+		{
+			"artist": "Şükrüye Tutkun",
+			"artworkId": 0,
+			"artworkUrl": "#0",
+			"audioId": 7,
+			"audioUrl": "https://example.com/songs/sevda.mp3",
+			"format": "mp3",
+			"length": "7:10",
+			"title": "Sevda",
+			"order": 0,
+			"mp3": "https://example.com/songs/sevda.mp3",
+			"meta": {
+				"artist": "Şükrüye Tutkun",
+				"length_formatted": "7:10"
+			},
+			"src": "https://example.com/songs/sevda.mp3",
+			"thumb": {
+				"src": "images/albums/07.jpg"
 			}
 		}
 	]
